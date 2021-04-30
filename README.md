@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @erdemylmaz
+- 👋 Hi, I’m Erdem
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: 16erdemylmz@gmail.com
